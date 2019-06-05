@@ -1,0 +1,6 @@
+# don't tract content of this folders
+virtual/
+
+# ignore this files
+.DS_Store
+.ipynb_checkpoints
